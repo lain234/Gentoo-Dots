@@ -1,0 +1,17 @@
+2022/11/25-21:54:18.533 1e1a Reusing MANIFEST /home/lain/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/11/25-21:54:18.580 1e1a Recovering log #131
+2022/11/25-21:54:18.796 1e1a Level-0 table #134: started
+2022/11/25-21:54:18.987 1e1a Level-0 table #134: 1210218 bytes OK
+2022/11/25-21:54:19.142 1e1a Delete type=0 #131
+2022/11/25-21:56:28.183 1f8d Level-0 table #137: started
+2022/11/25-21:56:28.223 1f8d Level-0 table #137: 1217179 bytes OK
+2022/11/25-21:56:28.259 1f8d Delete type=0 #135
+2022/11/25-21:56:28.260 1f8d Compacting 4@0 + 1@1 files
+2022/11/25-21:56:28.307 1f8d Generated table #138@0: 124 keys, 1233949 bytes
+2022/11/25-21:56:28.307 1f8d Compacted 4@0 + 1@1 files => 1233949 bytes
+2022/11/25-21:56:28.343 1f8d compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/11/25-21:56:28.343 1f8d Delete type=2 #134
+2022/11/25-21:56:28.343 1f8d Delete type=2 #132
+2022/11/25-21:56:28.343 1f8d Delete type=2 #127
+2022/11/25-21:56:28.343 1f8d Delete type=2 #137
+2022/11/25-21:56:28.343 1f8d Delete type=2 #129

@@ -1,0 +1,82 @@
+# # # # # # # # # # # # # # # # # # # # # # # # #
+#      _    _                 _ _   _           #
+#     / \  | | __ _  ___ _ __(_) |_| |_ _   _   #
+#    / _ \ | |/ _` |/ __| '__| | __| __| | | |  #
+#   / ___ \| | (_| | (__| |  | | |_| |_| |_| |  #
+#  /_/   \_\_|\__,_|\___|_|  |_|\__|\__|\__, |  #
+#                                       |___/   #
+#                                               #
+# # # # # # # # # # # # # # # # # # # # # # # # #
+
+# config by: https://github.com/lain234
+
+scrolling:
+  history: 10000
+  multiplier: 3
+
+window:
+  opacity: 0.80
+
+  padding:
+    x: 10
+    y: 10
+
+font:
+  normal:
+    family: Jet Brains Mono Nerd Font
+    style:  Medium
+  bold:
+    family: Jet Brains Mono Nerd Font
+    style:  Bold
+  italic:
+    family: Jet Brains Mono Nerd Font
+    style:  MediumItalic
+  bold_italic:
+    family: Jet Brains Mono Nerd Font
+    style: BoldItalic
+  size: 10
+draw_bold_text_with_bright_colors: false
+
+colors:   
+# Default colors   
+  primary:     
+    background: '#000000'     
+    foreground: '#f3c0cc' 
+
+  normal:
+    black:   '#f398af'
+    red:     '#dcb98d'
+    green:   '#5d8bee'
+    yellow:  '#f5cfe5'
+    blue:    '#b7d1e5'
+    magenta: '#adb5d3'
+    cyan:    '#b84571'
+    white:   '#707880'
+ 
+  # Bright colors
+  bright:
+    black:   '#b0cdf1'
+    red:     '#cc6666'
+    green:   '#d39b6c'
+    yellow:  '#f0c674'
+    blue:    '#81a2be'
+    magenta: '#b294bb'
+    cyan:    '#8abeb7'
+    white:   '#c5c8c6'
+
+cursor:
+  style:
+    shape: Beam
+    blinking: Off
+    blink-interval: 750
+
+selection:
+  save_to_clipboard: true
+
+live_config_reload: true
+
+shell:
+  program: /bin/bash
+
+key_bindings:
+  - { key: Return, mods: Super|Shift, action: SpawnNewInstance }

@@ -1,0 +1,6 @@
+2022/11/26-00:18:10.497 784 Reusing MANIFEST /home/lain/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/11/26-00:18:10.497 784 Recovering log #136
+2022/11/26-00:18:10.511 784 Reusing old log /home/lain/.config/discord/Local Storage/leveldb/000136.log 
+2022/11/26-00:20:19.129 81d Level-0 table #141: started
+2022/11/26-00:20:19.181 81d Level-0 table #141: 1218575 bytes OK
+2022/11/26-00:20:19.215 81d Delete type=0 #136
