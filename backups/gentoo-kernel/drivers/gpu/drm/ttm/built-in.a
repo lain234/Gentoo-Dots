@@ -1,0 +1,27 @@
+!<thin>
+//                                              184       `
+ttm_tt.o/
+ttm_bo.o/
+ttm_bo_util.o/
+ttm_bo_vm.o/
+ttm_module.o/
+ttm_execbuf_util.o/
+ttm_range_manager.o/
+ttm_resource.o/
+ttm_pool.o/
+ttm_device.o/
+ttm_sys_manager.o/
+ttm_agp_backend.o/
+
+/0              0           0     0     644     19328     `
+/10             0           0     0     644     39168     `
+/20             0           0     0     644     23920     `
+/35             0           0     0     644     16576     `
+/48             0           0     0     644     2696      `
+/62             0           0     0     644     7048      `
+/82             0           0     0     644     8856      `
+/103            0           0     0     644     23944     `
+/119            0           0     0     644     24848     `
+/131            0           0     0     644     15696     `
+/145            0           0     0     644     3864      `
+/164            0           0     0     644     7864      `

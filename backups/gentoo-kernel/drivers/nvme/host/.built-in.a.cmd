@@ -1,0 +1,1 @@
+cmd_drivers/nvme/host/built-in.a := rm -f drivers/nvme/host/built-in.a;  printf "drivers/nvme/host/%s " core.o ioctl.o trace.o multipath.o hwmon.o pci.o fabrics.o fc.o tcp.o | xargs ar cDPrST drivers/nvme/host/built-in.a

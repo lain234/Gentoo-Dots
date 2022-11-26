@@ -1,0 +1,35 @@
+!<thin>
+//                                              288       `
+intel8x0.o/
+ac97/ac97_codec.o/
+ac97/ac97_pcm.o/
+ac97/ac97_proc.o/
+hda/hda_bind.o/
+hda/hda_codec.o/
+hda/hda_jack.o/
+hda/hda_auto_parser.o/
+hda/hda_sysfs.o/
+hda/hda_controller.o/
+hda/hda_proc.o/
+hda/hda_hwdep.o/
+hda/hda_generic.o/
+hda/patch_realtek.o/
+hda/patch_si3054.o/
+hda/hda_intel.o/
+
+/0              0           0     0     644     62328     `
+/12             0           0     0     644     284864    `
+/31             0           0     0     644     16288     `
+/48             0           0     0     644     23624     `
+/66             0           0     0     644     11472     `
+/82             0           0     0     644     135656    `
+/99             0           0     0     644     29568     `
+/115            0           0     0     644     27784     `
+/138            0           0     0     644     7536      `
+/155            0           0     0     644     60152     `
+/177            0           0     0     644     30480     `
+/193            0           0     0     644     4080      `
+/210            0           0     0     644     150240    `
+/229            0           0     0     644     254816    `
+/250            0           0     0     644     11568     `
+/270            0           0     0     644     54896     `

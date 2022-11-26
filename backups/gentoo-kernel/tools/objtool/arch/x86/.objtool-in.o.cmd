@@ -1,0 +1,1 @@
+cmd_/usr/src/linux-6.0.5-gentoo/tools/objtool/arch/x86/objtool-in.o :=  ld -r -o /usr/src/linux-6.0.5-gentoo/tools/objtool/arch/x86/objtool-in.o  /usr/src/linux-6.0.5-gentoo/tools/objtool/arch/x86/special.o /usr/src/linux-6.0.5-gentoo/tools/objtool/arch/x86/decode.o

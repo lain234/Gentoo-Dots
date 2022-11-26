@@ -1,0 +1,34 @@
+!<thin>
+//                                              220       `
+amd/iommu.o/
+amd/init.o/
+amd/quirks.o/
+amd/io_pgtable.o/
+intel/dmar.o/
+intel/iommu.o/
+intel/pasid.o/
+intel/trace.o/
+intel/cap_audit.o/
+iommu.o/
+iommu-traces.o/
+iommu-sysfs.o/
+dma-iommu.o/
+io-pgtable.o/
+ioasid.o/
+iova.o/
+/0              0           0     0     644     65488     `
+/13             0           0     0     644     64224     `
+/25             0           0     0     644     4624      `
+/39             0           0     0     644     11528     `
+/57             0           0     0     644     67928     `
+/71             0           0     0     644     103336    `
+/86             0           0     0     644     20400     `
+/101            0           0     0     644     18664     `
+/116            0           0     0     644     22376     `
+/135            0           0     0     644     119280    `
+/144            0           0     0     644     47784     `
+/160            0           0     0     644     8984      `
+/175            0           0     0     644     47560     `
+/188            0           0     0     644     4760      `
+/202            0           0     0     644     17640     `
+/212            0           0     0     644     27888     `

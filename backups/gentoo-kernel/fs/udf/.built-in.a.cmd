@@ -1,0 +1,1 @@
+cmd_fs/udf/built-in.a := rm -f fs/udf/built-in.a;  printf "fs/udf/%s " balloc.o dir.o file.o ialloc.o inode.o lowlevel.o namei.o partition.o super.o truncate.o symlink.o directory.o misc.o udftime.o unicode.o | xargs ar cDPrST fs/udf/built-in.a
